@@ -1,0 +1,16 @@
+---
+#title: "amaliavr.github.io"
+description: "My personal corner for blog posts, notes etc."
+toc: true
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+# page-layout: full
+# title-block-banner: false
+---
+
+

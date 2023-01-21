@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alkistics
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/amaliavradi
+    - icon: github
+      text: Github
+      href: https://github.com/amaliavr
+
+---
+
+About this blog
