@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Amalia's blog"
+  title: "Amalia Vradi"
   page-footer: 
     center: 
       - icon: github
@@ -10,21 +10,23 @@ website:
       - icon: twitter
         href: https://twitter.com/alkistics
   navbar:
-    title: false
-    background: dark
+    title: 'Amalia Vradi'
+    background: light
     pinned: false
     collapse: false
     left:
       - text: "About"
         href: about.qmd
-      - text: "Blog"
+      - text: Posts
         href: index.qmd
     right:
-      - icon: rss
-        href: index.xml
+      - icon: github
+        href: https://github.com/amaliavr
+      - icon: twitter
+        href: https://twitter.com/alkistics
 format:
   html:
-    theme: [solar, custom.scss]
+    theme: default
     css: styles.css
     toc: true
 
