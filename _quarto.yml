@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Amalia Vradi"
+  page-footer: 
+    center: 
+      - icon: github
+        href: https://github.com/amaliavr
+      - icon: twitter
+        href: https://twitter.com/alkistics
+  navbar:
+    title: 'Amalia Vradi'
+    background: light
+    pinned: false
+    collapse: false
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: Posts
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/amaliavr
+      - icon: twitter
+        href: https://twitter.com/alkistics
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+
+
+

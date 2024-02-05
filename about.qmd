@@ -1,0 +1,23 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alkistics
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/amaliavradi
+    - icon: github
+      text: Github
+      href: https://github.com/amaliavr
+
+---
+
+Welcome to my corner of the internet! This blog is my digital canvas, a place where I share my musings, discoveries, and where I keep some of my notes on a variety of topics.
+
+If you find anything here that resonates with you or that piques your interest, don't hesitate to reach out! 😊

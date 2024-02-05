@@ -1,0 +1,29 @@
+---
+#title: "amaliavr.github.io"
+description: "Recent posts"
+toc: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, reading-time, title, categories, description, image]
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+author: ''
+# title-block-banner: false
+---
+
+
+# Hi there, I'm Amalia
+
+::: {.profile-header}
+
+![](profile.jpg){.profile-pic}
+
+I'm a Data Scientist who likes to work with data and Machine Learning. I am part of the innovation team at [Sixense Satellite](https://www.sixense-group.com/en/offer/monitoring/satellite-monitoring-atlas-insar), a company based in Barcelona that uses remote sensing data for monitoring motion and stability.
+
+:::
+
+## Posts
