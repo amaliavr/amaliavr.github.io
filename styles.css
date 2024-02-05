@@ -1,0 +1,16 @@
+/* css styles */
+.navbar-dark{
+    background-color: white;
+}
+
+.profile-header {
+    display: flex;
+}
+
+.profile-header p + p {
+    margin: 0 20px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
