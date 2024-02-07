@@ -7,6 +7,13 @@
     "text": "Oh hi there! What good winds brought you to this corner of the internet? Well, awkard moment, because I broke my site 😅. Therefore, blog under construction 😁 Will be back very soon!"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there, I’m Amalia",
+    "section": "",
+    "text": "I’m a Data Scientist who likes to work with data and Machine Learning. I am part of the innovation team at Sixense Satellite, a company based in Barcelona that uses remote sensing data for monitoring motion and stability."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,10 +21,10 @@
     "text": "Welcome to my corner of the internet! This blog is my digital canvas, a place where I share my musings, discoveries, and where I keep some of my notes on a variety of topics.\nIf you find anything here that resonates with you or that piques your interest, don’t hesitate to reach out! 😊"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi there, I’m Amalia",
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "📚🖋 Notes",
     "section": "",
-    "text": "I’m a Data Scientist who likes to work with data and Machine Learning. I am part of the innovation team at Sixense Satellite, a company based in Barcelona that uses remote sensing data for monitoring motion and stability."
+    "text": "Here lies a sort of “second brain”: a collection of frequently referenced notes and insights that escape my memory. It’s inspired by Hamel’s blog, serving as a digital repository for myself and anyone who might find it useful. If you notice any inaccuracies, feel free to submit a pull request or get in touch."
   }
 ]
