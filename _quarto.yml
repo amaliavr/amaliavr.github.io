@@ -19,6 +19,8 @@ website:
         href: about.qmd
       - text: Posts
         href: index.qmd
+      - text: Notes
+        href: notes/index.qmd
     right:
       - icon: github
         href: https://github.com/amaliavr

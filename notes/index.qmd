@@ -1,0 +1,12 @@
+---
+id: notes
+title: 📚🖋 Notes
+#listing:
+#  contents: 
+#   - "/*.qmd"
+#   - "/*/index.qmd"
+---
+
+
+Here lies a sort of "second brain": a collection of frequently referenced notes and insights that escape my memory. It's inspired by [Hamel's blog](https://hamel.dev/notes/), serving as a digital repository for myself and anyone who might find it useful.
+If you notice any inaccuracies, feel free to submit a pull request or get in touch.
